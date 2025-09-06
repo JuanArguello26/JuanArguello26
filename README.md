@@ -1,13 +1,13 @@
 <h2 title="hehehe"> Hello Fellow!👋, I'm Juan!</h2>
 
 <a href="https://www.linkedin.com/in/juan-e-arg%C3%BCello-5a9375349/">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+  <img align="left" alt="JuanArguello's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/opposite_theother/">
-  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+  <img align="left" alt="JuanArguello's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
 <a href="https://x.com/JuanArguelloMNS">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+  <img align="left" alt="JuanArguello's X" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
 
 
