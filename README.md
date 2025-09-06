@@ -1,16 +1,52 @@
-## Hi there 👋
+<h2 title="hehehe"> Hello Fellow!👋, I'm Juan!</h2>
 
-<!--
-**JuanArguello26/JuanArguello26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/juan-e-arg%C3%BCello-5a9375349/">
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/opposite_theother/">
+  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+</a>
+<a href="https://x.com/JuanArguelloMNS">
+  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br />
+<br />
+
+
+ 
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
+**About Me!**
+
+- 👨🏽‍💻 I'm currently finishing my software engineering degree. 
+- 🌱 I love programming, since I was a child that has been my dream
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [juanarguello0526@gmail.com](juanarguello0526@gmail.com).
+
+
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
+<code><img height="20" src="https://img.icons8.com/nolan/64/javascript-logo.png"></code> JavaScript 
+
+
+<code><img height="20" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code> Java
+<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
+
+<img src="https://github-readme-stats.vercel.app/api?username=JuanArguello26&theme=dracula&show_icons=true&hide_border=true&count_private=true)" alt="JuanArguello's GitHub Stats"> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanArguello26&theme=dracula&hide_border=true&theme=radical" alt="SanskarJaiswal" />   
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArguello26&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="SanskarJaiswal" /> 
+
+-----
+
+
+Last Edited on: 06/09/2025
