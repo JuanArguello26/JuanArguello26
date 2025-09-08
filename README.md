@@ -40,7 +40,10 @@
 <code><img height="20" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code> Java
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
+
+
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
+<code><img height="20" src="https://img.icons8.com/nolan/64/html.png" alt="html"></code> HTML 
 
 <img src="https://github-readme-stats.vercel.app/api?username=JuanArguello26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="JuanArguello's GitHub Stats"> 
 
