@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hello Fellow!👋, I'm Juan!</h2>
+ <h2 title="hehehe"> Hello Fellow!👋, I'm Juan!</h2>
 
 <a href="https://www.linkedin.com/in/juan-e-arg%C3%BCello-5a9375349/">
   <img align="left" alt="JuanArguello's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -46,9 +46,9 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 <code><img height="20" src="https://img.icons8.com/nolan/64/html.png" alt="html"></code> HTML 
 
-<img src="https://github-readme-stats.vercel.app/api?username=JuanArguello26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="JuanArguello's GitHub Stats"> 
+--<img src="https://github-readme-stats.vercel.app/api?username=JuanArguello26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="JuanArguello's GitHub Stats"> 
 <img src= "https://github-readme-streak-stats.herokuapp.com/?user=JuanArguello26&theme=vue-dark&hide_border=true)" alt="JuanArguello's GitHub Stats">
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArguello26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="JuanArguello" /> 
+--<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArguello26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="JuanArguello" /> 
 
 -----
 
