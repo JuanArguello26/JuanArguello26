@@ -23,7 +23,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I'm currently finishing my software engineering degree. 
+- 👨🏽‍💻 I'm currently finishing my software engineering degree.
+- 📊 Data Analyst. 
 - 🌱 I love programming, since I was a child that has been my dream
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [juanarguello0526@gmail.com](juanarguello0526@gmail.com).
@@ -52,4 +53,4 @@
 -----
 
 
-Last Edited on: 09/09/2025
+Last Edited on: 28/02/2026
