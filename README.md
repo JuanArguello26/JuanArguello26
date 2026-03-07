@@ -27,7 +27,7 @@
 - 📊 Data Analyst. 
 - 🌱 I love programming, since I was a child that has been my dream
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [juanarguello0526@gmail.com](juanarguello0526@gmail.com).
+- 📫 Email me at [juanarguello0526@gmail.com](anlistajuanarguello@gmail.com).
 
 
 
@@ -52,4 +52,4 @@
 -----
 
 
-Last Edited on: 28/02/2026
+Last Edited on: 07/03/2026
