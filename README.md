@@ -48,7 +48,7 @@
 
 
 <img src= "https://github-readme-streak-stats.herokuapp.com/?user=JuanArguello26&theme=vue-dark&hide_border=true)" alt="JuanArguello's GitHub Stats">
-<img src= "[https://github-readme-streak-stats.herokuapp.com/?user=JuanArguello26&theme=vue-dark&hide_border=true)" alt="JuanArguello's GitHub Stats">
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=JuanArguello26&theme=vue-dark&hide_border=true)" alt="JuanArguello's GitHub Stats">
 
 
 -----
