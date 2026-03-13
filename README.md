@@ -43,7 +43,7 @@
 
 
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
+<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> CSS
 <code><img height="20" src="https://img.icons8.com/nolan/64/html.png" alt="html"></code> HTML 
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArguello26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="JuanArguello's GitHub Stats">
