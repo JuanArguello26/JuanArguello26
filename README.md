@@ -12,15 +12,17 @@
 
 ---
 
+<div align="center">
+<img src="MastaDev-Human.png" alt="Juan Arguello" width="200" style="border-radius: 50%; border: 4px solid #b6a891; box-shadow: 0 8px 32px rgba(182, 168, 145, 0.4);">
+<br><br>
+<h2 style="color: #e6edf3; margin: 10px 0;">Juan E. Arguello</h2>
+<p style="color: #b6a891; font-size: 16px;">Software Engineering Student</p>
+<p style="color: #8b949e;">📍 Colombia</p>
+</div>
+
 <table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 <td width="35%" align="center" style="padding: 20px;">
-<img src="MastaDev-Human.png" alt="Juan Arguello" width="180" style="border-radius: 20px; border: 3px solid #b6a891; box-shadow: 0 8px 32px rgba(182, 168, 145, 0.3);">
-<br><br>
-**Juan E. Arguello**
-<br>*Software Engineering Student*
-<br><br>📍 Colombia
-</td>
 <td width="65%" style="padding: 20px;">
 <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; backdrop-filter: blur(10px);">
 
@@ -103,4 +105,4 @@
 
 ---
 
-✨ Crafted with passion | Last updated: April 2026
+✨ **MastaDev** | Last updated: April 2026
