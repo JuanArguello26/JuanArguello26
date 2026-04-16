@@ -15,7 +15,7 @@ jobs:
       - name: Update README timestamp
         run: |
           date=$(date '+%B %Y')
-          sed -i "s/Last updated:.*/Last updated: $date/" README.md
+          sed -i "s/<!-- UPDATE_DATE -->/$date/" README.md
 
       - name: Commit and push changes
         run: |
