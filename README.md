@@ -160,7 +160,7 @@
 </td>
 <td align="center" style="padding: 10px;">
 <a href="https://portafolio-two-zeta-64.vercel.app/" target="_blank">
-<img src="https://img.icons8.com/nolan/96/resume-website.png" width="36" alt="Portfolio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="36" height="36" alt="Portfolio"/>
 </a>
 </td>
 <td align="center" style="padding: 10px;">
