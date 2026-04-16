@@ -1,59 +1,106 @@
- <h2 title="hehehe"> Hello Fellow!👋, I'm Juan!</h2>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/juan-e-arg%C3%BCello-5a9375349/">
-  <img align="left" alt="JuanArguello's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/opposite_theother/">
-  <img align="left" alt="JuanArguello's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<a href="https://x.com/JuanArguelloMNS">
-  <img align="left" alt="JuanArguello's X" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Data+Analyst+%7C+Dreamer&font=Fira%20Code&center=true&width=500&height=50&color=b6a891&vCenter=true)
 
+---
 
+<div align="center">
 
+![Glassmorphic Banner](https://img.shields.io/badge/✨_Premium_Profile-b6a891?style=for-the-badge&logo=github&logoColor=%230b0f14)
 
-<br />
-<br />
+</div>
 
+---
 
- 
+<table align="center" width="100%" style="border-collapse: collapse;">
+<tr>
+<td width="35%" align="center" style="padding: 20px;">
+<img src="MastaDev-Human.png" alt="Juan Arguello" width="180" style="border-radius: 20px; border: 3px solid #b6a891; box-shadow: 0 8px 32px rgba(182, 168, 145, 0.3);">
+<br><br>
+**Juan E. Arguello**
+<br>*Software Engineering Student*
+<br><br>📍 Colombia
+</td>
+<td width="65%" style="padding: 20px;">
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; backdrop-filter: blur(10px);">
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+## 🏆 GitHub Stats
 
-**About Me!**
+![Stats](https://github-readme-stats.vercel.app/api?username=JuanArguello26&theme=transparent&bg_color=0b0f14&show_icons=true&icon_color=b6a891&text_color=e6edf3&hide_border=true&count_private=true)
 
-- 👨🏽‍💻 I'm currently finishing my software engineering degree.
-- 📊 Data Analyst. 
-- 🌱 I love programming, since I was a child that has been my dream
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [analistajuanarguello@gmail.com](analistajuanarguello@gmail.com).
-- 📋 Portfolio: https://portafolio-two-zeta-64.vercel.app/
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArguello26&theme=transparent&bg_color=0b0f14&layout=compact&icon_color=b6a891&text_color=e6edf3&hide_border=true)
 
+</div>
+</td>
+</tr>
+</table>
 
+---
 
-**Languages and Tools:**  
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
 
+## 💬 About Me
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/64/javascript-logo.png"></code> JavaScript 
+- 👨‍💻 Currently finishing my **Software Engineering** degree
+- 📊 **Data Analyst** | Transforming data into insights
+- 🌱 Passionate programmer since childhood - that dream is now reality
+- 💬 Ask me anything! I love to help and share knowledge
+- 🎯 Building cool things, one commit at a time
 
+</div>
 
-<code><img height="20" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code> Java
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
+---
 
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
 
+## 🛠️ Tech Stack
 
-<code><img height="20" src="https://img.icons8.com/nolan/64/css3.png"></code> CSS
-<code><img height="20" src="https://img.icons8.com/nolan/64/html.png" alt="html"></code> HTML 
+| Python | JavaScript | Java | MySQL |
+|--------|------------|------|-------|
+| HTML5 | CSS3 | VS Code | Git |
 
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArguello26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="JuanArguello's GitHub Stats">
-<img src= "https://github-readme-stats.vercel.app/api?username=JuanArguello26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="JuanArguello's GitHub Stats">
-<img src= "https://github-readme-streak-stats.herokuapp.com/?user=JuanArguello26&theme=vue-dark&hide_border=true" alt="JuanArguello's GitHub Stats">
+</div>
 
+---
 
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
 
------
+## 🚀 Featured Projects
 
+| Project | Description | Language |
+|---------|-------------|----------|
+| 📊 Portfolio | My personal data analyst portfolio | JavaScript, HTML, CSS |
+| 🔧 Project Name | Coming soon... | Python |
+| 🎯 Project Name | Coming soon... | Java |
 
-Last Edited on: 07/04/2026
+</div>
+
+---
+
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
+
+## 📈 GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanArguello26&theme=github-dark&bg_color=0b0f14&color=b6a891&line=b6a891&point=e6edf3&area_color=b6a891&hide_border=true)
+
+</div>
+
+---
+
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
+
+## 📱 Let's Connect
+
+| LinkedIn | Instagram | X | Portfolio | Email |
+|----------|-----------|---|-----------|-------|
+| [Profile](https://www.linkedin.com/in/juan-e-arg%C3%BCello-5a9375349/) | [Profile](https://www.instagram.com/opposite_theother/) | [Profile](https://x.com/JuanArguelloMNS) | [Website](https://portafolio-two-zeta-64.vercel.app/) | [Email](mailto:analistajuanarguello@gmail.com) |
+
+</div>
+
+---
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanArguello26&theme=transparent&background=0b0f14&border=b6a891&stroke=b6a891&fire=b6a891&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=e6edf3&hide_border=true)
+
+---
+
+✨ Crafted with passion | Last updated: April 2026
