@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Data+Analyst+%7C+Dreamer&font=Fira%20Code&center=true&width=500&height=50&color=b6a891&vCenter=true)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Data+Analyst+%7C+Dreamer&font=Fira%20Code&center=true&width=500&height=50&color=b6a891&vCenter=true&pause=3000)
 
 </div>
 
@@ -65,15 +65,32 @@
 <table align="center">
 <tr>
 <td align="center" style="padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 <br><br>
-<b>Python</b>
+<b>TypeScript</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+<br><br>
+<b>React</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+<br><br>
+<b>Next.js</b>
 </td>
 <td align="center" style="padding: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 <br><br>
 <b>JavaScript</b>
 </td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<br><br>
+<b>Python</b>
+</td>
+</tr>
+<tr>
 <td align="center" style="padding: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
 <br><br>
@@ -94,6 +111,11 @@
 <br><br>
 <b>CSS3</b>
 </td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<br><br>
+<b>Git</b>
+</td>
 </tr>
 </table>
 
@@ -109,11 +131,11 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| 📊 Portfolio | My personal data analyst portfolio | JavaScript, HTML, CSS |
-| 🔧 Project Name | Coming soon... | Python |
-| 🎯 Project Name | Coming soon... | Java |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🚀 [PromptLab](https://github.com/JuanArguello26/PromptLab) | AI prompt generator with Groq API & Llama 3.1 | Next.js, React, TypeScript, Tailwind CSS |
+| 📊 [Portfolio](https://portafolio-two-zeta-64.vercel.app/) | My personal data analyst portfolio | JavaScript, HTML, CSS |
+| 🔧 Coming soon... | - | Python |
 
 </div>
 
@@ -189,7 +211,7 @@
 
 <p style="color: #8b949e; font-size: 14px;">
 
-✨ **MastaDev** | Last updated: April 2026
+✨ **MastaDev** | Last updated: <b style="color: #b6a891;"><!-- UPDATE_DATE --></b>
 
 </p>
 
