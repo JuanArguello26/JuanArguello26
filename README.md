@@ -2,29 +2,26 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Data+Analyst+%7C+Dreamer&font=Fira%20Code&center=true&width=500&height=50&color=b6a891&vCenter=true)
 
----
-
-<div align="center">
-
-![Glassmorphic Banner](https://img.shields.io/badge/✨_Premium_Profile-b6a891?style=for-the-badge&logo=github&logoColor=%230b0f14)
-
 </div>
 
 ---
 
 <div align="center">
-<img src="MastaDev-Human.png" alt="Juan Arguello" width="200" style="border-radius: 50%; border: 4px solid #b6a891; box-shadow: 0 8px 32px rgba(182, 168, 145, 0.4);">
+
+<table align="center" width="100%" style="border-collapse: collapse; max-width: 900px;">
+<tr>
+<td width="40%" align="center" style="vertical-align: middle; padding: 20px;">
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 20px; padding: 30px; backdrop-filter: blur(10px);">
+<img src="MastaDev-Human.png" alt="Juan Arguello" width="160" style="border-radius: 50%; border: 4px solid #b6a891; box-shadow: 0 8px 32px rgba(182, 168, 145, 0.4);">
 <br><br>
 <h2 style="color: #e6edf3; margin: 10px 0;">Juan E. Arguello</h2>
 <p style="color: #b6a891; font-size: 16px;">Software Engineering Student</p>
 <p style="color: #8b949e;">📍 Colombia</p>
 </div>
+</td>
 
-<table align="center" width="100%" style="border-collapse: collapse;">
-<tr>
-<td width="35%" align="center" style="padding: 20px;">
-<td width="65%" style="padding: 20px;">
-<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; backdrop-filter: blur(10px);">
+<td width="60%" style="vertical-align: middle; padding: 20px;">
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 20px; padding: 25px; backdrop-filter: blur(10px);">
 
 ## 🏆 GitHub Stats
 
@@ -37,9 +34,13 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
-<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
+<div align="center">
+
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 900px; margin: 0 auto; backdrop-filter: blur(10px);">
 
 ## 💬 About Me
 
@@ -51,21 +52,60 @@
 
 </div>
 
+</div>
+
 ---
 
-<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
+<div align="center">
+
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 900px; margin: 0 auto; backdrop-filter: blur(10px);">
 
 ## 🛠️ Tech Stack
 
-| Python | JavaScript | Java | MySQL |
-|--------|------------|------|-------|
-| HTML5 | CSS3 | VS Code | Git |
+<table align="center">
+<tr>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<br><br>
+<b>Python</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<br><br>
+<b>JavaScript</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<br><br>
+<b>Java</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<br><br>
+<b>MySQL</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+<br><br>
+<b>HTML5</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+<br><br>
+<b>CSS3</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 
 ---
 
-<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
+<div align="center">
+
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 900px; margin: 0 auto; backdrop-filter: blur(10px);">
 
 ## 🚀 Featured Projects
 
@@ -77,9 +117,13 @@
 
 </div>
 
+</div>
+
 ---
 
-<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
+<div align="center">
+
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 900px; margin: 0 auto; backdrop-filter: blur(10px);">
 
 ## 📈 GitHub Activity
 
@@ -87,22 +131,66 @@
 
 </div>
 
+</div>
+
 ---
 
-<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 800px; margin: 0 auto; backdrop-filter: blur(10px);">
+<div align="center">
+
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 25px; max-width: 900px; margin: 0 auto; backdrop-filter: blur(10px);">
 
 ## 📱 Let's Connect
 
-| LinkedIn | Instagram | X | Portfolio | Email |
-|----------|-----------|---|-----------|-------|
-| [Profile](https://www.linkedin.com/in/juan-e-arg%C3%BCello-5a9375349/) | [Profile](https://www.instagram.com/opposite_theother/) | [Profile](https://x.com/JuanArguelloMNS) | [Website](https://portafolio-two-zeta-64.vercel.app/) | [Email](mailto:analistajuanarguello@gmail.com) |
+<table align="center">
+<tr>
+<td align="center" style="padding: 10px;">
+<a href="https://www.linkedin.com/in/juan-e-arg%C3%BCello-5a9375349/" target="_blank">
+<img src="https://img.icons8.com/nolan/96/linkedin.png" width="36" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="https://www.instagram.com/opposite_theother/" target="_blank">
+<img src="https://img.icons8.com/nolan/96/instagram-new.png" width="36" alt="Instagram"/>
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="https://x.com/JuanArguelloMNS" target="_blank">
+<img src="https://img.icons8.com/nolan/96/twitter.png" width="36" alt="X"/>
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="https://portafolio-two-zeta-64.vercel.app/" target="_blank">
+<img src="https://img.icons8.com/nolan/96/resume-website.png" width="36" alt="Portfolio"/>
+</a>
+</td>
+<td align="center" style="padding: 10px;">
+<a href="mailto:analistajuanarguello@gmail.com" target="_blank">
+<img src="https://img.icons8.com/nolan/96/email.png" width="36" alt="Email"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 
 ---
 
+<div align="center">
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanArguello26&theme=transparent&background=0b0f14&border=b6a891&stroke=b6a891&fire=b6a891&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=e6edf3&hide_border=true)
+
+</div>
 
 ---
 
+<div align="center">
+
+<p style="color: #8b949e; font-size: 14px;">
+
 ✨ **MastaDev** | Last updated: April 2026
+
+</p>
+
+</div>
