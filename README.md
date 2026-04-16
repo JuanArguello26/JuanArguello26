@@ -189,7 +189,7 @@
 
 <p style="color: #8b949e; font-size: 14px;">
 
-✨ **MastaDev** | Last updated: <!-- UPDATE_DATE -->
+✨ **MastaDev** | Last updated: April 2026
 
 </p>
 
