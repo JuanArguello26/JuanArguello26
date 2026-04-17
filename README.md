@@ -6,10 +6,6 @@
 
 ---
 
-![Demo](Video_Animado_Listo.gif)
-
----
-
 <div align="center">
 
 <table align="center" width="100%" style="border-collapse: collapse; max-width: 900px;">
@@ -206,6 +202,14 @@
 <div align="center">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanArguello26&theme=transparent&background=0b0f14&border=b6a891&stroke=b6a891&fire=b6a891&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=e6edf3&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Demo](Video_Animado_Listo.gif)
 
 </div>
 
