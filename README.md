@@ -62,13 +62,10 @@
 
 ## 🛠️ Tech Stack
 
+<h3 align="center">🎨 FrontEnd</h3>
+
 <table align="center">
 <tr>
-<td align="center" style="padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-<br><br>
-<b>TypeScript</b>
-</td>
 <td align="center" style="padding: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
 <br><br>
@@ -80,26 +77,14 @@
 <b>Next.js</b>
 </td>
 <td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+<br><br>
+<b>TypeScript</b>
+</td>
+<td align="center" style="padding: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 <br><br>
 <b>JavaScript</b>
-</td>
-<td align="center" style="padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<br><br>
-<b>Python</b>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<br><br>
-<b>Java</b>
-</td>
-<td align="center" style="padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-<br><br>
-<b>MySQL</b>
 </td>
 <td align="center" style="padding: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
@@ -111,6 +96,77 @@
 <br><br>
 <b>CSS3</b>
 </td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite"/>
+<br><br>
+<b>Vite</b>
+</td>
+</tr>
+</table>
+
+<h3 align="center">⚙️ BackEnd</h3>
+
+<table align="center">
+<tr>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<br><br>
+<b>Python</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<br><br>
+<b>Java</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+<br><br>
+<b>PHP</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
+<br><br>
+<b>Kotlin</b>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<table align="center">
+<tr>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<br><br>
+<b>MySQL</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+<br><br>
+<b>PostgreSQL</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+<br><br>
+<b>MongoDB</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+<br><br>
+<b>Redis</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="45" height="45" alt="Cassandra"/>
+<br><br>
+<b>Cassandra</b>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🛠️ Tools</h3>
+
+<table align="center">
+<tr>
 <td align="center" style="padding: 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 <br><br>
