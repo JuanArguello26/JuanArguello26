@@ -10,18 +10,17 @@
 
 <table align="center" width="100%" style="border-collapse: collapse; max-width: 900px;">
 <tr>
-<td width="40%" align="center" style="vertical-align: middle; padding: 20px;">
-<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 20px; padding: 20px; backdrop-filter: blur(10px);">
-<img src="MastaDev-Human.png" alt="Juan Arguello" width="130" style="border-radius: 50%; border: 4px solid #b6a891; box-shadow: 0 8px 32px rgba(182, 168, 145, 0.4);">
-<br>
-<h2 style="color: #e6edf3; margin: 8px 0;">Juan E. Arguello</h2>
-<p style="color: #b6a891; font-size: 16px;">Software Engineering Student</p>
-<p style="color: #8b949e;">📍 Colombia</p>
+<td width="36%" align="center" style="vertical-align: middle; padding: 10px;">
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 12px; backdrop-filter: blur(10px);">
+<img src="MastaDev-Human.png" alt="Juan Arguello" width="120" style="border-radius: 50%; border: 4px solid #b6a891; box-shadow: 0 8px 32px rgba(182, 168, 145, 0.4); display: block; margin: 0 auto 6px;">
+<h2 style="color: #e6edf3; margin: 4px 0;">Juan E. Arguello</h2>
+<p style="color: #b6a891; font-size: 16px; margin: 2px 0;">Software Engineering Student</p>
+<p style="color: #8b949e; margin: 2px 0;">📍 Colombia</p>
 </div>
 </td>
 
-<td width="60%" style="vertical-align: middle; padding: 20px;">
-<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 20px; padding: 20px; backdrop-filter: blur(10px);">
+<td width="64%" style="vertical-align: middle; padding: 10px;">
+<div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(182,168,145,0.3); border-radius: 16px; padding: 15px; backdrop-filter: blur(10px);">
 
 ## 🏆 GitHub Stats
 
