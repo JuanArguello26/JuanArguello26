@@ -25,9 +25,9 @@
 
 ## 🏆 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanArguello26&theme=transparent&bg_color=0b0f14&show_icons=true&icon_color=b6a891&text_color=e6edf3&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=JuanArguello26&theme=transparent&bg_color=0b0f14&show_icons=true&icon_color=b6a891&text_color=e6edf3&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArguello26&theme=transparent&bg_color=0b0f14&layout=compact&icon_color=b6a891&text_color=e6edf3&hide_border=true)
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanArguello26&theme=transparent&bg_color=0b0f14&layout=compact&icon_color=b6a891&text_color=e6edf3&hide_border=true)
 
 </div>
 </td>
