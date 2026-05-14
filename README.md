@@ -274,7 +274,7 @@
 
 <p style="color: #8b949e; font-size: 14px;">
 
-✨ **MastaDev** | Last updated: <b style="color: #b6a891;">May 2026</b>
+✨ **MastaDev** | Last updated: <b style="color: #b6a891;">May 14 - 2026</b>
 
 </p>
 
