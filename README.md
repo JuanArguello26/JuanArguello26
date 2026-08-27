@@ -24,9 +24,9 @@
 
 ## 🏆 GitHub Stats
 
-![Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=JuanArguello26&theme=transparent&bg_color=0b0f14&show_icons=true&icon_color=b6a891&text_color=e6edf3&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=JuanArguello26&theme=transparent&bg_color=0b0f14&show_icons=true&icon_color=b6a891&text_color=e6edf3&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanArguello26&theme=transparent&bg_color=0b0f14&layout=compact&icon_color=b6a891&text_color=e6edf3&hide_border=true)
+![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JuanArguello26&theme=transparent&bg_color=0b0f14&layout=compact&icon_color=b6a891&text_color=e6edf3&hide_border=true)
 
 </div>
 </td>
@@ -204,7 +204,7 @@
 
 ## 📈 GitHub Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanArguello26&theme=github-dark&bg_color=0b0f14&color=b6a891&line=b6a891&point=e6edf3&area_color=b6a891&hide_border=true)
+![Activity Graph](https://activity-graph.vercel.app/graph?username=JuanArguello26&theme=github-dark&bg_color=0b0f14&color=b6a891&line=b6a891&point=e6edf3&area_color=b6a891&hide_border=true)
 
 </div>
 
