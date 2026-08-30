@@ -100,6 +100,11 @@
 <br><br>
 <b>Vite</b>
 </td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+<br><br>
+<b>Tailwind CSS</b>
+</td>
 </tr>
 </table>
 
@@ -126,6 +131,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
 <br><br>
 <b>Kotlin</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+<br><br>
+<b>FastAPI</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+<br><br>
+<b>Node.js</b>
 </td>
 </tr>
 </table>
@@ -159,6 +174,11 @@
 <br><br>
 <b>Cassandra</b>
 </td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase"/>
+<br><br>
+<b>Supabase</b>
+</td>
 </tr>
 </table>
 
@@ -170,6 +190,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 <br><br>
 <b>Git</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+<br><br>
+<b>Docker</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+<br><br>
+<b>Linux</b>
+</td>
+<td align="center" style="padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+<br><br>
+<b>Jupyter</b>
 </td>
 </tr>
 </table>
